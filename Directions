@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+	<title>Contact</title>
+	<link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <p style=&#128405;</p>
+    <h1>How to find us &#128405</h1>
+    <p style=&#128241;</p>
+  	<h2>Phone &#128241</h2>
+  	<p>0818-12-12-12</p>
+
+    <p style=&#128241;</p>
+    <h2>Email &#128233</h2>
+
+   <p style=&#128377;</p>
+    <p>Support@setu.ie</p>
+    <h2>Location &#128377</h2>
+    <p>SETU, Cork Rd, Waterford, 
+      <br>X91 VY9N</p>
+    <p>Go to
+<a href="https://goo.gl/maps/xMFMtaaaUdYygbj89">Map</a></p>
+<img src="images/Map.png">
+
+<ul>
+  <p style=&#128099;</p>
+<li>Call us</li>
+<li>Email us</li>
+<li>Or come to us! &#128099</li>
+</ul>
+
+<h2>What Service we offer</h2>
+<ol>
+  <p style=&#127905;</p>
+  <li>Kindness</li>
+  <li>Patient</ll>
+  <li>Knowledge</li>
+  <li>FUN &#127905</li>
+
+
+</ol>
+
+ <p style=&#127968;</p>
+<p>Back to<a href="index.html">HomePage &#127968</a></p>
+  </body>
+
+
+
+</html>
