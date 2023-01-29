@@ -205,3 +205,105 @@ margin-left: 25%;
 opacity:0.5;
 
 }
+
+
+
+
+
+================================================================
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bundle APP Store</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to the App Bundle Store</h1>
+    <p>
+      This store brings you great app bundles week after week. We select the
+      best power user apps from a broad range of suppliers and combine them into
+      great deals. These are the highest quality apps from the best publishers,
+      at <em>great prices</em>. Click <a href="deals/deals.html"> Here</a> you can find all the best deals we offer!
+    </p>
+
+
+    <p>
+      Whether you are interested in gaming or graphics design, software
+      development or media production - we have the bundle for you. Each
+      <a href="apps.html">app bundle</a> is designed to compliment the others,
+      delivering you an exciting take on a scene.
+
+    </p>
+
+
+    <h2>Favourites</h2>
+    
+    <ul class="Favourites">
+
+      <li>Hype by Tumult</li>
+      <li>Webstorm by Idea</li>
+      <li>Sublime, by sublimetext.com</li>
+      <li>Desktop Utility by Sweet Productions</li>
+    </ul>
+        
+    <h2>Locations</h2>
+    <p>
+      To find how to locate our store, visit our<a href="directions.html"> directions </a> page.
+      <div><img src="images/apps.jpg"> </div>
+      <div class="background-image"></div>
+    </p>
+  </body>
+</html>
+
+
+**********************************************
+
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: small;
+  background-position:  top ;
+  background-image: url("images/banner.png");
+  background-repeat: no-repeat;
+  margin:200px;
+}
+h1 {
+   text-align: center;
+   border-bottom: double navy;
+   font-size: 2.0em;
+   color: blueviolet;
+   text-shadow: 1px 1px 2px #000000;
+   text-decoration: underline navy 3px;
+}
+em {
+  color: red;
+}
+h2 {
+  color:#7f81ba;
+  font-size: 1.5em;
+  text-align: center;
+  border-bottom: dotted navy;
+}
+p{
+  font-size: small;
+  text-align:center;
+  color: #363940;
+}
+
+
+li{
+  font-size: small;
+  text-align:left;
+  color:#7f81ba;
+}
+.Favourites
+{text-align:center;
+  padding-left:48%;
+}
+
+.background-image{
+  width: 500px;
+  background-image:url("images/apps.jpg") 60% 60%;
+
+}
+
+div{opacity:0.5;}
