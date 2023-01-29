@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bundle APP Store</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+     
+
+    <h1>Welcome to the App Bundle Store</h1>
+    <p>
+      This store brings you great app bundles week after week. We select the
+      best power user apps from a broad range of suppliers and combine them into
+      great deals. These are the highest quality apps from the best publishers,
+      at <em>great prices</em>. Click <a href="deals/deals.html"> Here</a> you can find all the best deals we offer!
+    </p>
+
+
+    <p>
+      Whether you are interested in gaming or graphics design, software
+      development or media production - we have the bundle for you. Each
+      <a href="apps.html">app bundle</a> is designed to compliment the others,
+      delivering you an exciting take on a scene.
+
+    </p>
+
+
+    <h2>Favourites</h2>
+    <ul>
+
+      <li class ="favorites">Hype by Tumult</li>
+      <li class ="favorites">Webstorm by Idea</li>
+      <li class ="favorites">Sublime, by sublimetext.com</li>
+      <li class ="favorites">Desktop Utility by Sweet Productions</li>
+    </ul>
+        
+    <h2>Locations</h2>
+    <p>
+      To find how to locate our store, visit our<a href="directions.html"> directions </a> page.
+      <div><img src="images/apps.jpg"> </div>
+    </p>
+  </body>
+</html>
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bundle APP Store</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1>App Bundles</h1>
+    <h3>Freebie</h3>
+    <p>
+      Stacksocial just published its so called Free Ondesoft Mac Tool Bundle,
+      which contains 5 apps from Onesoft. The bundle is worth $146 will be
+      probably available only a couple of days so you’d better hurry up to get
+      it.
+    </p>
+    <p><img src="images/ondesoft.jpg" alt="One Soft"></p>
+    <hr>
+    <h3>Macware Business Bundle</h3>
+    <p>
+      Here comes the next bundle for march. This time its macware who publish a
+      bundle. The so called macware Business Bundle contains 6 apps at a price
+      of only 29.99 instead of 199.94. So you can save around 84%.
+    </p>
+    <hr>
+    <h3>Ultimate Bundle</h3>
+    <p>
+      This bundle is worth more than $400 dollars. So for just a little bit more
+      than $10, you can make your bargain if you want just one of these apps. of
+      dollars. We think, that the bundle will be online until the mid of October
+    </p>
+    <p><img src="images/ultimate.jpeg" alt="One Soft"></p>
+    <hr>
+    <a href="index.html">Home</a>
+  </body>
+</html>
+***************************************************
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bundle APP Store</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1>App Bundles</h1>
+    <h3>Freebie</h3>
+    <p>
+      Stacksocial just published its so called Free Ondesoft Mac Tool Bundle,
+      which contains 5 apps from Onesoft. The bundle is worth $146 will be
+      probably available only a couple of days so you’d better hurry up to get
+      it.
+    </p>
+    <p><img src="images/ondesoft.jpg" alt="One Soft"></p>
+    <hr>
+    <h3>Macware Business Bundle</h3>
+    <p>
+      Here comes the next bundle for march. This time its macware who publish a
+      bundle. The so called macware Business Bundle contains 6 apps at a price
+      of only 29.99 instead of 199.94. So you can save around 84%.
+    </p>
+    <hr>
+    <h3>Ultimate Bundle</h3>
+    <p>
+      This bundle is worth more than $400 dollars. So for just a little bit more
+      than $10, you can make your bargain if you want just one of these apps. of
+      dollars. We think, that the bundle will be online until the mid of October
+    </p>
+    <p><img src="images/ultimate.jpeg" alt="One Soft"></p>
+    <hr>
+    <a href="index.html">Home</a>
+  </body>
+</html>
+
+***************************************************
+
+deals.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>App Bundle Deals</title>
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <h1>Weekly Deals</h1>
+    <h2 class="special">Business Bundle</h2>
+    <p>
+      <img src="../images/business.png" alt="Business Bundle" /> Here comes the next bundle for march. This time it's
+      macware who publish a bundle. The so called macware Business Bundle contains 6 apps at a price of only $29.99
+      instead of $199.94. So you can save around 84%.
+    </p>
+    <h2 class="special">Insanity Deal</h2>
+    <p>
+      <img src="../images/insanity.jpg" alt="Insanity Deal" /> With the new $5 Insanity Deals from Bundlehunt you
+      receive every day a highly reduced app for $5 only with savings up to 75%. Not a real bundle but, as there are
+      multiple apps for only $5 each, one new per day, for the days to come.
+    </p>
+    <a href="../index.html">Home</a>
+  </body>
+</html>
+
+
+
+***************************************************
+
+
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: small;
+  background-position:  top ;
+  background-image: url("images/banner.png");
+  background-repeat: no-repeat;
+  margin:200px;
+
+
+}
+
+
+
+
+h1 {
+   text-align: center;
+   border-bottom: double navy;
+   font-size: 2.0em;
+   color: blueviolet;
+   text-shadow: 1px 1px 2px #000000;
+   text-decoration: underline navy 3px;
+
+
+}
+
+em {
+  color: red;
+}
+
+h2 {
+  color:#7f81ba;
+  font-size: 1.5em;
+  text-align: left;
+  border-bottom: dotted navy;
+}
+p{
+  font-size: small;
+  text-align:left;
+  color: #363940;
+
+}
+li{
+  font-size: small;
+  text-align:left;
+  color:#7f81ba;
+}
+
+div{
+margin-top:-15%;
+margin-left: 25%;
+opacity:0.5;
+
+}
+
