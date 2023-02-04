@@ -10,3 +10,32 @@
  
  
 .img{opacity:0.5;}
+
+
+***Note : image is under the location details which is not a good present.
+
+***********************************************************************************************************
+
+Instead add div on itself
+
+<h2>Locations</h2>
+                        <p>
+                          To find how to locate our store, visit our<a href="directions.html"> directions </a> page.
+                      
+                        </p>
+
+                        <div> <img src="images/bg-app.gif" alt="apps"class="appsimg"/></div>
+
+
+.banner-img{
+ display:block;
+ margin-right: auto;
+ margin-left: auto;
+ }
+
+
+.appsimg{
+  background-color: rgba(255,255,255,0.5);
+  background-size: cover;
+  opacity:0.5;
+}
