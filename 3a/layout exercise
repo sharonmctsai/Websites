@@ -1,0 +1,184 @@
+  <!DOCTYPE html>
+  <html>
+        <head>
+          <title>Bundle APP Store</title>
+          <link rel="stylesheet" href="style.css">
+        </head>
+
+        <body>
+
+                      <img src="images/banner.png" class="banner-img">
+
+                      <div class="container">
+
+                        <div id="maincontent">
+                        <h1>Welcome to the App Bundle Store</h1>
+                        <p>
+                          This store brings you great app bundles week after week. We select the
+                          best power user apps from a broad range of suppliers and combine them into
+                          great deals. These are the highest quality apps from the best publishers,
+                          at <em>great prices</em>. Click <a href="deals/deals.html"> Here</a> you can find all the best deals we offer!
+                        </p>
+                        
+                        <p>
+                          Whether you are interested in gaming or graphics design, software
+                          development or media production - we have the bundle for you. Each
+                          <a href="apps.html">app bundle</a> is designed to compliment the others,
+                          delivering you an exciting take on a scene.
+                         </p>
+                          <p class="guarantee">
+                           Our guarantee: at the store, we're committed to providing you, with an exceptional quality and reliability. Every application is checked in details for stability, usability and inter-interoperability. If you are unhappy with any individual app in a bundle we will refund you the full amount for the complete suite no questions asked.
+                        </p>
+
+
+                        <h2>Favourites</h2>
+                        <ul class="Favourites">
+
+                          <li>Hype by Tumult</li>
+                          <li>Webstorm by Idea</li>
+                          <li>Sublime, by sublimetext.com</li>
+                          <li>Desktop Utility by Sweet Productions</li>
+                        </ul>
+                            
+                        <h2>Locations</h2>
+                        <p>
+                          To find how to locate our store, visit our<a href="directions.html"> directions </a> page.
+                      
+                        </p>
+
+                        <div> <img src="images/bg-app.gif" alt="apps"class="appsimg"/></div>
+
+                        </div>
+
+                       <div id="sidebar">  
+                        <h1>Weekly Deals</h1>
+                        <h2 class="special">Business Bundle</h2>
+                        <p>
+                          <img src="images/business.png" alt="Business Bundle" class="sidebar-img"> Here comes the
+                          next bundle for march. This time it's macware who publish a bundle. The so
+                          called macware Business Bundle contains 6 apps at a price of only $29.99
+                          instead of $199.94. So you can save around 84%.
+                        </p>
+                        <h2 class="special">Insanity Deal</h2>
+                        <p>
+                          <img src="images/insanity.jpg" alt="Insanity Deal" class="sidebar-img"> With the new $5
+                          Insanity Deals from Bundlehunt you receive every day a highly reduced app
+                          for $5 only with savings up to 75%. Not a real bundle but, as there are
+                          multiple apps for only $5 each, one new per day, for the days to come.
+                        </p>
+
+
+                        <h3>Onesoft Bundle</h3>
+                        <p>
+                          <img src="images/ondesoft.jpg" alt="One Soft Bundle" class="sidebar-img"/>
+                          An exciting offerieng from Onesoft. It comes in at
+                          $199.94. So you can save around 84%. Get it today!
+                        </p>
+                      </div>
+                    
+
+                    </div>
+      </body>
+ </html>
+****************************************
+
+
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: small;
+}
+
+h1 {
+   text-align: left;
+   border-bottom: double navy;
+   font-size: 2.0em;
+   color: blueviolet;
+   text-shadow: 1px 1px 2px #000000;
+   text-decoration: underline navy 3px;
+
+}
+
+em {
+  color: red;
+}
+
+h2 {
+  color:#7f81ba;
+  font-size: 1.5em;
+  text-align: left;
+  border-bottom: dotted navy;
+}
+
+p{
+  font-size: small;
+  text-align:left;
+  color: #363940;
+
+}
+
+
+li{
+  font-size: small;
+  text-align:left;
+  color:#7f81ba;
+}
+
+.Favourites
+{text-align:left;
+}
+
+.guarantee{
+ border-color:black;
+ border-width: 1px;
+ border-style: solid;
+
+ background-color: #a7cece;
+ background-image: url(images/background-star.gif);
+ background-repeat: no-repeat;
+ background-position: left;
+ 
+
+ padding: 80px;
+ padding-left: 150px
+ margin-right:50px;
+ 
+ line-height: 1.9em;
+ font-style:italic;
+ font-family: Georgia,"Times New Roman", Times, serif;
+ color:black;
+
+ border-color: white;
+ border-width: 1px;
+ border-style: dashed;
+}
+
+.container{
+  display:grid;
+  grid-template-columns:5% 55% 20% 5%;
+  grid-gap:5% ;
+}
+
+#maincontent{
+  grid-column-start:2;
+}
+
+#sidebar{
+  grid-column-start:3;
+}
+
+.sidebar-img{
+  display: block;
+  width:300px;
+}
+.banner-img{
+ display:block;
+ margin-right: auto;
+ margin-left: auto;
+ }
+
+
+.appsimg{
+  background-color: rgba(255,255,255,0.5);
+  background-size: cover;
+  opacity:0.5;
+}
