@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<link rel="stylesheet" href="lorem.css">
+    <title>Home Page</title>
+  </head>
+  <body>
+  <div class="container">
+  	<div id="header">
+
+	    <h1>
+	      Lorem ipsum dolor sit
+	    </h1>
+	</div>
+
+	<div id="navigation">
+	    <ul>
+	      <li><a href="lorem.html">Mauris</a> </li>
+	      <li><a href="cras.html">Cras</a> </li>
+	      <li><a href="proin.html">Proin</a> </li>
+	      <li><a href="integer.html">Integer</a> </li>
+	    </ul>
+	</div>
+
+	<div id="maincontent">
+	   <div id="primary">
+     <img src="images/blink.png" class="blink">
+	    <p>
+	      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed feugiat nisi
+	      at sapien. Phasellus varius tincidunt ligula. Praesent nisi. Duis
+	      sollicitudin. Donec dignissim, est vel auctor blandit, ante est laoreet
+	      neque, non pellentesque mauris turpis eu purus.
+	    </p>
+	    <p>
+	      Suspendisse mollis leo nec diam. Vestibulum pulvinar tellus sit amet nulla
+	      fringilla semper. Aenean aliquam, urna et accumsan sollicitudin, tellus
+	      pede lobortis velit, nec placerat dolor pede nec nibh. Donec fringilla. Duis
+	      adipiscing diam at enim. Vestibulum nibh.
+	    </p>
+	    <p>
+	      Nulla facilisi. Aliquam dapibus leo eget leo. Etiam vitae turpis sit amet
+	      massa posuere cursus. Sed vitae justo quis tortor facilisis ultrices.
+	      Integer id erat. Donec at felis ut erat interdum vestibulum. Quisque et eros.
+	      Donec fringilla, est in condimentum venenatis, tortor velit vehicula sem, in
+	      elementum quam sapien eu lectus. In dolor urna, ullamcorper vel, tempor sit
+	      amet, semper ut, felis. Praesent nisi.
+	    </p>
+	   <img src="images/smile.png" class="smile">
+	    <p>
+	   	  Ut eu velit congue, auctor nulla et, porttitor ante. Sed vestibulum sapien ac molestie blandit. Sed congue eu elit in hendrerit. Nulla iaculis libero eget bibendum faucibus. Vestibulum ornare id urna non posuere. Nulla sit amet accumsan velit. Nullam eu libero congue ante rutrum rutrum. Curabitur in tempor nunc, sed porta lectus. In gravida sit amet mauris eu fringilla. Morbi eget nisl et ligula pharetra facilisis sed ac enim. Nunc luctus, ex ut pellentesque maximus, neque turpis semper dui, vel consequat tellus augue ac massa. Vestibulum viverra, urna ac venenatis mattis, dui sem aliquet augue, vel porttitor leo sapien non nibh. Nulla facilisi.
+
+	     </p>
+
+	    </div>
+      <div id="secondary">
+      	<img src="images/happy.png" class="happy">
+	    <p>
+	      Fusce scelerisque viverra quam. Nam urna. Nullam urna libero, euismod at,
+	      euismod sit amet, porttitor ac, mauris.
+	    </p>
+	    <img src="images/happy.png" class="happy">
+	    <p>
+	      Vestibulum interdum aliquet lacus. Vestibulum egestas. Fusce adipiscing
+	      quam sed metus.
+	    </p>
+	    <img src="images/happy.png" class="happy">
+	    <p>
+	      Nullam dignissim aliquam dui. Proin laoreet, elit sed pulvinar
+	      sollicitudin, urna arcu fermentum felis, in rhoncus nunc neque vitae
+	      libero.
+	    </p>
+	  </div>
+	</div>
+	
+    <div id="footer">  
+	    <p>
+	      Proin quis orci eu erat molestie varius. Praesent condimentum
+	      orci in lectus. Ut ipsum. In hac habitasse platea dictumst.
+	    </p>
+	 </div>
+    
+</div>
+  </body>
+</html>
+
+
+**********************************************
+
+
+<html>
+  <head>
+  		<link rel="stylesheet" href="lorem.css">
+        <title>Cram</title>
+  </head>
+	<body>
+     
+   <div class="container">  <!-- container open-->
+	<div id="header">   <!--header open-->
+	     <h1>Sed sed purus eu erat ullamcorper</h1>
+	</div>                             <!-- header close-->
+	<div id="navigation">  <!-- navigation open-->
+	    <ul>
+	      	<li><a href="lorem.html">Mauris</a> </li>
+		    <li><a href="cras.html">Cras</a> </li>
+		    <li><a href="proin.html">Proin</a> </li>
+		    <li><a href="integer.html">Integer</a> </li>
+		</ul>
+    </div>                             <!--navigation close-->
+    <div id="maincontent">  <!-- maincontent open-->
+     
+	    <div id="primary">  <!--primary open-->
+	       <p>Sed sed purus eu erat ullamcorper sollicitudin scelerisque aliquet metus. Vestibulum sit amet leo at lectus venenatis malesuada. Vivamus sollicitudin purus sit amet urna pulvinar venenatis. Nullam sed scelerisque augue. Integer ipsum ante, dictum quis sollicitudin non, euismod tristique eros.</p>
+
+	       <img src="images/love.png" class="love">
+	       <p>Proin malesuada tincidunt auctor. Maecenas dapibus congue justo, volutpat molestie lorem mattis eget. Nullam finibus turpis et commodo hendrerit</p>
+	       <p>Donec fringilla tortor non nibh sollicitudin suscipit. Sed vitae arcu consectetur, laoreet eros non, porta ex. Nunc volutpat arcu non purus mattis, vel accumsan velit consectetur. Morbi sit amet leo mauris. Aliquam non odio et urna commodo fermentum. Duis fermentum enim ac quam cursus, sit amet convallis turpis porta. Cras consequat, lectus vel facilisis ullamcorper, justo risus malesuada nisl, pretium congue ex odio id enim.</p>
+	       <p>Nullam molestie lectus elit, eu euismod neque egestas vel. Nam a ipsum urna. Donec sit amet pulvinar mi.</p>
+	    </div>                        <!--primary close-->
+
+	     <div id="secondary"> <!--secondary open-->
+	     	 <img src="images/hug.png" class="hug">
+	       <p>Curabitur elit erat, sollicitudin pellentesque tincidunt eu, blandit a nisi. Etiam sit amet egestas nisl. Pellentesque vehicula velit mollis, luctus lorem quis, ultrices justo.</p>
+	        <img src="images/hug.png" class="hug">
+	       <p>Vivamus posuere metus urna</p>
+	        <img src="images/fun.png" class="fun">
+	       <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+	       
+	     </div>                        <!--secondary close-->
+	 </div>                                     <!-- maincontent close-->
+	    <div id="footer">  <!--footer open-->
+	       <p>Aliquam vulputate mauris eget elementum aliquam. Phasellus nulla justo, viverra vel lectus in, gravida aliquet purus.
+	       </p>
+	    </div>                       <!--footer close-->
+    
+    </div>                                              <!-- container close-->
+ 
+
+   </body>
+
+</html>
+**************************************
+
+<html>
+	<head>
+		<link rel="stylesheet" href="lorem.css">
+		<title>Proin</title>
+	</head>
+
+      <body>
+
+	<div class="container">
+
+		<div id="header">
+		  <h1>Nunc nec malesuada metus</h1>
+		</div>
+
+		<div id="navigation">
+	      <ul>
+		      	<li><a href="lorem.html">Mauris</a> </li>
+			    <li><a href="cras.html">Cras</a> </li>
+			    <li><a href="proin.html">Proin</a> </li>
+			    <li><a href="integer.html">Integer</a> </li>
+		  </ul>
+
+		</div>
+
+	<div id="maincontent">
+
+		<div id="primary">
+			<img src="images/eyes.png" class="eyes">
+		<p>Nunc nec malesuada metus, non ullamcorper risus. Phasellus vestibulum urna ac metus scelerisque, in vulputate sapien aliquet. Vestibulum volutpat, neque a finibus bibendum, mauris tellus semper tortor, nec facilisis velit odio vel risus. Donec ullamcorper iaculis ex ut condimentum.</p>
+		<p>Vestibulum ut enim a libero euismod iaculis. Fusce ullamcorper neque odio, eu interdum arcu imperdiet ut.
+		</p>
+
+		<p>Nulla facilisi. Proin a nulla fringilla, sodales sem non, dictum eros. Donec ac elit congue, blandit leo et, vulputate massa. Donec aliquet dolor non urna accumsan, a fermentum risus scelerisque. Nullam auctor dictum iaculis</p>
+
+		<img src="images/eyes.png" class="eyes">
+
+		<p>Fusce cursus porttitor semper. Sed non diam a ex vestibulum tincidunt. Integer quis nulla arcu. Aenean luctus arcu non ex congue venenatis. Donec ut massa eget turpis lacinia dapibus vitae sed augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mattis vel est at iaculis. Phasellus iaculis orci orci, quis euismod est tincidunt id. Cras scelerisque libero tristique accumsan interdum. Mauris quis quam vel justo dictum pellentesque nec at tellus</p>
+        </div>
+
+		<div id="secondary">
+		<img src="images/angry.png" class="angry">
+		<p>Nunc fringilla tempor tellus non laoreet. Nunc leo augue, fringilla id urna at, pulvinar posuere augue. Donec lacinia et purus in fringilla.</p>
+
+		<p>Ut tempor diam lorem.</p>
+
+		<img src="images/angry.png" class="angry">
+
+		<p>Nullam dignissim aliquam dui. Proin laoreet, elit sed pulvinar sollicitudin, urna arcu fermentum felis, in rhoncus nunc neque vitae libero.</p>
+		</div>
+    </div>
+	 <div id="footer">
+		<p>Integer maximus nisi ac vehicula tincidunt. Nulla pellentesque quam in ornare convallis. Duis scelerisque fringilla dolor, nec ultricies</p>
+		</div>
+
+</div>
+
+  </body>
+</html>
+
+************************************************
+<html>
+	<head>
+		<link rel="stylesheet" href="lorem.css">
+		<title>Integer</title>
+	</head>
+
+	<body>
+	 <div class="container">
+	 <div id="header">	
+	 <h1>LMorbi euismod eu tortor nec vehicula.</h1>
+	</div>
+
+	<div id="navigation">
+		<ul>
+			<li><a href="lorem.html">Mauris</a></li>
+			<li><a href="cras.html">Cras</a></li>
+			<li><a href="proin.html">Proin</a></li>
+			<li><a href="integer.html">Integer</a></li>
+
+		</ul>
+	</div>
+
+	<div id="maincontent">
+		<div id="primary">
+			<p>Morbi euismod eu tortor nec vehicula. Nullam tempor ligula sit amet pulvinar luctus. Phasellus efficitur libero metus, in convallis arcu laoreet at. Suspendisse quis lectus tortor. Donec fermentum iaculis massa, et congue odio luctus quis. Sed faucibus mi quis ex pellentesque tempus.</p>
+			<p>Aliquam volutpat lorem eu erat cursus consequat. Integer lobortis tellus nec dui ultricies, a ornare ipsum hendrerit. Vivamus nunc sem, vehicula in scelerisque ac, imperdiet ut massa. Morbi sed blandit dolor. Nunc suscipit luctus massa, quis iaculis mi vehicula ut. Sed id sem congue ipsum tempor commodo vitae a massa. Nulla facilisi.</p>
+			<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque interdum leo nec semper convallis.</p>
+	    </div>
+
+	    <div id="secondary">
+	    	<p>Curabitur tempor enim vitae ex tristique tincidunt. Phasellus vel dui ut odio iaculis maximus. Nulla consequat nulla eu tellus placerat, viverra condimentum purus commodo. Ut ut molestie augue. Praesent ut imperdiet sem. Suspendisse potenti.</p>
+	    	<p>Nam convallis, nibh ut posuere luctus, massa quam eleifend massa, ut vehicula lorem nunc non purus.</p>
+	    </div>
+	</div>
+
+	    <div id="footer">
+	    	<p>In laoreet ligula sit amet tellus dapibus consectetur. Mauris mattis ex eu enim ultrices, ac accumsan elit vestibulum.</p>
+	    </div>
+
+	</div>
+
+</body>
+</html>
+
+*************************************************
+
+.container {
+  display: grid;
+  grid-template-columns: 5% 10% 50% 5%;
+  grid-gap:3%;
+
+}
+
+#header {
+  grid-column-start: 2;
+  grid-column-end : span 2;
+}
+
+#navigation {
+  grid-column-start: 2;
+}
+
+#maincontent {
+  grid-column-start: 3;
+  display: grid;
+  grid-template-columns: 70% 27%;
+  grid-gap: 3%;
+  
+}
+
+#primary {
+  grid-column-start: 1;
+ 
+}
+
+#secondary {
+  grid-column-start: 2;
+
+}
+
+#footer {
+  grid-column-start: 2;
+  grid-column-end : span 2;
+}
+.smile{
+ width:200px;
+ float:center;
+ margin-left: 170px;
+}
+
+.blink{
+  width:150px;
+  float:right;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.happy{
+  width:50px;
+  float:right;
+}
+
+.love{
+  width:150px;
+  float:left;
+  margin-right: 10px;
+}
+
+.hug{
+  width:50px;
+  float:left;
+  margin-right: 5px;
+}
+
+.fun{
+  width:50px;
+  float:right;
+  margin-left: 5px;
+}
+
+.eyes{
+   widh:150px;
+   float:center;
+   margin-left: 150px;
+}
+
+.angry{
+  width:80px;
+  margin-left:80px;
+}
