@@ -1,0 +1,13 @@
+ul#menu li {
+  display: inline;
+  padding-inline-start: 20px;
+}
+ul#menu a {
+  text-decoration: none;
+}
+#menu li.active a{
+background:black;
+padding: .5m 2em .5em 2em;
+color: white;
+
+}
