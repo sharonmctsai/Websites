@@ -1,0 +1,99 @@
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: small;
+}
+
+h1 {
+   text-align: left;
+   border-bottom: double navy;
+   font-size: 2.0em;
+   color: blueviolet;
+   text-shadow: 1px 1px 2px #000000;
+   text-decoration: underline navy 3px;
+
+}
+
+em {
+  color: red;
+}
+
+h2 {
+  color:#7f81ba;
+  font-size: 1.5em;
+  text-align: left;
+  border-bottom: dotted navy;
+}
+
+p{
+  font-size: small;
+  text-align:left;
+  color: #363940;
+
+}
+
+
+li{
+  font-size: small;
+  text-align:left;
+  color:#7f81ba;
+}
+
+.Favourites
+{text-align:left;
+}
+
+.guarantee{
+ border-color:black;
+ border-width: 1px;
+ border-style: solid;
+
+ background-color: #a7cece;
+ background-image: url(images/background-star.gif);
+ background-repeat: no-repeat;
+ background-position: left;
+ 
+
+ padding: 80px;
+ padding-left: 150px
+ margin-right:50px;
+ 
+ line-height: 1.9em;
+ font-style:italic;
+ font-family: Georgia,"Times New Roman", Times, serif;
+ color:black;
+
+ border-color: white;
+ border-width: 1px;
+ border-style: dashed;
+}
+
+.container{
+  display:grid;
+  grid-template-columns:5% 55% 20% 5%;
+  grid-gap:5% ;
+}
+
+#maincontent{
+  grid-column-start:2;
+}
+
+#sidebar{
+  grid-column-start:3;
+}
+
+.sidebar-img{
+  display: block;
+  width:300px;
+}
+.banner-img{
+ display:block;
+ margin-right: auto;
+ margin-left: auto;
+ }
+
+
+.appsimg{
+  background-color: rgba(255,255,255,0.5);
+  background-size: cover;
+  opacity:0.5;
+}
